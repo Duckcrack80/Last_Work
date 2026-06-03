@@ -1,0 +1,27 @@
+.play {background-image: url("world.png");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100vw;
+background-attachment: center;
+height: 100%;
+}
+
+.pray {background-image: url("hell.png");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100vw;
+background-attachment: center;
+height: 100%;
+}
+
+.hay {background-image: url("end.png");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100vw;
+background-attachment: center;
+height: 100%;
+}
+
+body {color: white;
+line-height: 1.6;
+}

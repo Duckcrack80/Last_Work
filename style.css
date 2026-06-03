@@ -1,0 +1,41 @@
+body {background-image: url("background.png");
+background-repeat: round;
+background-size: cover;
+}
+.game-menu {display: flex;
+list-style: none; 
+background-color: #eee; 
+padding: 10px 20px; 
+border: 10px #666 solid;
+width: 285px;
+font-family: 'MineCrafter', sans-serif;
+font-size: 30px;
+color: #c0c0c0;
+text-shadow:
+    4px 4px 0 #000,
+    8px 8px 0 #333;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.game-menu li {position: relative; 
+padding: 12px 20px; 
+color: #ccc solid; 
+font-weight: bold;
+margin: 0 5px; 
+text-align: center; 
+height: auto;
+} 
+
+a {text-decoration: none;
+}
+
+.wrapper {
+display: flex;
+width: 100vw;
+height: 100vh;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin-top: 50px;
+}
