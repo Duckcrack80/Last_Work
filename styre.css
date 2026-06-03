@@ -25,3 +25,19 @@ height: 100%;
 body {color: white;
 line-height: 1.6;
 }
+
+h1 {font-family: 'MineCraft', sans-serif;
+color: #c0c0c0;
+text-shadow:
+    4px 4px 0 #000,
+    8px 8px 0 #333;
+}
+
+.colorw {background-color: rgba(0, 255, 0, 0.5);
+}
+
+.colorh {background-color: rgba(255, 0, 0, 0.5);
+}
+
+.colore {background-color: rgba(128, 0, 255, 0.5);
+}
