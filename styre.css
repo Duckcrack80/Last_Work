@@ -43,14 +43,10 @@ text-shadow:
 }
 
 .left {float: left;
-width: 250px;
-height: auto;
 animation: shake 0.5s infinite;
 }
 
 .right {float: right;
-width: 250px;
-height: 300px;
 animation: shake 0.5s infinite;
 }
 
